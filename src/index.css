@@ -1,0 +1,13 @@
+.card {
+  width: 75% !important;
+  border-radius: 0px !important;
+  margin-top: 20px;
+}
+button {
+  margin-left: 10px;
+}
+
+.task-card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
